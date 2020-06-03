@@ -1,0 +1,6 @@
+region="us-east-1"
+profile="badams"
+key="badams-dev.tfstate"
+bucket="badams-badams"
+asg_size="t2.micro"
+phone_number="+15555555555"
